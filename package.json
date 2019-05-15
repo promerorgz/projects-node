@@ -1,0 +1,22 @@
+{
+  "name": "projects-node",
+  "version": "1.0.0",
+  "description": "Node app to keep track of projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promerorgz/projects-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/promerorgz/projects-node/issues"
+  },
+  "homepage": "https://github.com/promerorgz/projects-node#readme",
+  "dependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
